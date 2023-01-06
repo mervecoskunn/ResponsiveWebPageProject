@@ -1,0 +1,175 @@
+body {
+    font-family: "Roboto";
+}
+
+header>nav:nth-child(1) {
+    padding: 0;
+    border-bottom: 2px solid #ffe01a;
+}
+
+header>nav:nth-child(1) a {
+    font-size: .8em;
+}
+
+header>nav:nth-child(1) i {
+    color: #ffe01a;
+}
+
+.btn-cdr-yellow {
+    color: #000;
+    background-color: #ffe01a;
+    border-color: #e2c508;
+}
+
+.btn-cdr-yellow:hover {
+    background-color: #ffca2c;
+    border-color: #ccb20a;
+}
+
+.basket-link {
+    position: relative;
+    font-weight: bold;
+}
+
+.basket-link>i {
+    color: #111821;
+    margin-right: 10px;
+}
+
+.badge-notification {
+    position: absolute !important;
+    font-size: .6em;
+    margin-top: -.1em;
+    margin-left: -1.5em;
+    padding: .2em .45em;
+    top: 6px !important;
+}
+
+.featured-card {
+    position: relative;
+    background-color: #ffe01a;
+    color: #414141;
+    min-height: 350px;
+    max-height: 350px;
+
+}
+
+.featured-card i {
+    font-size: 4rem;
+}
+
+.featured-card p {
+    font-size: .9em;
+}
+
+.featured-card a {
+    text-decoration: none;
+    color: #414141;
+}
+
+.featured-card a>i {
+    font-size: 1em;
+}
+
+.featured-card:hover {
+    background-color: #414141;
+    color: #ffe01a;
+}
+
+.featured-card:hover a {
+    background-color: #414141;
+    color: #ffe01a;
+}
+#signup{
+    background-color:orange;
+
+}
+
+#studentreview{
+    background-color: red;
+
+}
+#blog{
+    background-color: pink;
+
+}
+#aboutus{
+    background-color: blueviolet;
+
+}
+#contact{
+    background-color: darkcyan;
+
+}
+.bg-orange{
+    background-color: orange;
+    border-radius: .9rem;
+}
+#footer-item:hover{
+    background-color: white;
+}
+#photo{
+    width: 5rem;
+    margin-right:2rem ;
+}
+.featured-card-footer{
+    background-color: grey;
+    position: relative;
+    color: #414141;
+    min-height: 350px;
+    max-height: 350px;
+
+
+}
+.featured-card-footer i {
+    font-size: .4rem;
+}
+.featured-card-footer p {
+    font-size: .9em;
+}
+
+.featured-card-footer a {
+    text-decoration: none;
+    color:white;
+}
+
+.featured-card-footer a>i {
+    font-size: 1em;
+}
+
+.featured-card-footer:hover {
+    background-color:black;
+    color: #ffe01a;
+}
+
+.featured-card-footer:hover a {
+    background-color: #414141;
+    color: #ffe01a;
+}
+.footer-bottom >ul>li>a:hover{
+    background-color: orange;
+}
+.featured-card-courses{
+    background-color: #414141;
+    position: relative;
+    color: #ffe01a;
+    min-height: 350px;
+    max-height: 350px;
+    border-radius: 10%;
+}
+.featured-card-courses:hover{
+    background-color: black;
+    color: white;
+}
+
+.top-section-item{
+    color:pink;
+}
+.header-2{
+    position: relative;
+    background-color: white;
+    width: 500px;
+    height: 80px;
+    border-radius:2rem;
+
+}
